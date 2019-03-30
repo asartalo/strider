@@ -8243,6 +8243,13 @@ strider-hg@^0.2.3:
     shell-escape "0.0.1"
     underscore "~1.8.3"
 
+strider-istanbul@skellertor/strider-istanbul:
+  version "1.0.0"
+  resolved "https://codeload.github.com/skellertor/strider-istanbul/tar.gz/0956efa44da9554b6efb182b31e1208dd3883f1f"
+  dependencies:
+    debug "^2.2.0"
+    underscore "^1.8.3"
+
 strider-mailer@^0.2, strider-mailer@^0.2.0:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/strider-mailer/-/strider-mailer-0.2.2.tgz#759feccee1cbdc3a757b003177c849bc2a11815b"
@@ -8289,9 +8296,10 @@ strider-runner-core@~2.0.0:
     mkdirp "~0.3.5"
     shell-quote "^1.6.0"
 
-strider-simple-runner@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/strider-simple-runner/-/strider-simple-runner-1.0.2.tgz#2489df46d888fec1ad7ab8e4e366348153048fde"
+strider-simple-runner@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/strider-simple-runner/-/strider-simple-runner-1.1.0.tgz#e70ac96c91b137eeb4c0df2f3a6c010f1cde982f"
+  integrity sha512-Yj1kDmaUBhol2UtJY1Vw3Yk8YN6oKxMJWo4YDu9SxDqBNB1hQVXOoGKcCWPtzCzohgra9q7PDMqa33tcwCjdbA==
   dependencies:
     async "^1.5.2"
     debug "^2.2.0"
@@ -8941,7 +8949,7 @@ underscore.string@~3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/underscore.string/-/underscore.string-3.0.3.tgz#4617b8c1a250cf6e5064fbbb363d0fa96cf14552"
 
-underscore@, "underscore@>= 1.4.3", underscore@>=1.1.7:
+underscore@, "underscore@>= 1.4.3", underscore@>=1.1.7, underscore@^1.8.3:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.9.1.tgz#06dce34a0e68a7babc29b365b8e74b8925203961"
 

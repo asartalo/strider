@@ -118,6 +118,7 @@
     "strider-github-status": "^2.0.0",
     "strider-gitlab": "^1.2.3",
     "strider-heroku": "^0.1.1",
+    "strider-istanbul": "skellertor/strider-istanbul",
     "strider-mailer": "^0.2.0",
     "strider-metadata": "^0.0.3",
     "strider-node": "^1.0.0",
